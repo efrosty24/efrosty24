@@ -1,7 +1,7 @@
 ## Hello, I'm Evan!
 🧠 Computer Science Student @ University of Houston<br/>
 📚 Reseach Student Assistant @ University of Houston<br/>
-🚀 Team Manager and Team Lead for [CodeCoogs](https://www.codecoogs.com/]<br/>
+🚀 Team Manager and Team Lead for [CodeCoogs](https://www.codecoogs.com/)<br/>
 🧑🏽‍💻 Trying to increase my skills as a software developer by making desktop applications and audio plugins<br/>
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/2PBmkwDw) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/evan.fraustro) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/evan_fraustro) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/evan-fraustro) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/evan-fraustro) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@yo.static) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@_numbuh1) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@evanfraustro333) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:xzander0110@gmail.com) 
